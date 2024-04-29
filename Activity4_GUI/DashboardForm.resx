@@ -220,25 +220,10 @@
         WXJyL8rlWulv+3+5W8h6rMnSJpElDX6wmLeZ2X8AIqmJTS62a40AAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="pictureBox6.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EAAACxABrSO9dQAAAihJREFUOE+tVDtrFVEQXh+gpQREFET/REQQtDSComCvIJhUGh+9hYWgYBMk2Flo
-        YSVYaRfRSsVHE0KywQgKKijxcnfPmZmzyfrN2bmPvXtvcdUPhr1nHt9+c2buJgrn6ApxWPZefvab85xm
-        WXY8JvWBpJhH/IEd66AQrnmScqSJnLfULuBfqOLFfXP1wBzexSDLQ6LiJFGY6pgTOWRpNfQIYVBaluUW
-        C6FdbQ8BKD1hrgZQsAuFF3AFj5H7wpGsw+Y88ZrWOuLbXdIuIVGDEElbPYdbShDVkGwQSYqat9rBuvcH
-        PYUfMcbhZizqEdYVgmwfiD4a0ZJjPgvfDgt34UEK5Z81zxHdG0mIO30T/SLzaZo2iDrQ6yCWD/HFXhaG
-        EmKNLpnviZ5DCEdAPIPVugPfnF6DKgPZTuTFAeEqFtvt9u6hhDjrZW+ShLto55vG9Vx7Mt/A85X+Rs5a
-        lpV7YnGPsBpK2/tjsaCyDUzyOVq5mItMQtEEbDtqXqLN35azomojmWJQIaTPWOIq9vBwTBoAYraHvOqc
-        22/uCoOEmNRVrMLX2lsHgL17CoWfkHPAXImXYtr7cLRBiJa2tVqtiZg1Anme79Xp2jHhojhdKZYvQ4cy
-        LkSKc8qB4XxvDOVvMILwPyvMiU5ZfGyISD8hr9jhEb44U+NanvMZrM8z5cA/6LXu3Ww8/LttgutylJxl
-        7jq+LO+1/Y5hF5vG4dcww04uY6izSZIkfwDHCoiLAxb/1AAAAABJRU5ErkJggg==
-</value>
-  </data>
   <data name="pictureBox5.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DQAACw0B7QfALAAAAlJJREFUOE+FlU1IVHEUxWdGSSIyDYQYAo2g0F1QFLqIPkAI2mqtMoIWQbRoEeHC
+        DAAACwwBP0AiyAAAAlJJREFUOE+FlU1IVHEUxWdGSSIyDYQYAo2g0F1QFLqIPkAI2mqtMoIWQbRoEeHC
         pAxFQSmCiugDwUWLFi2K6EMEBcVcmGJUVgQlBEENzYC8+Xj9znjf8Hd40ztwuO+ee+6Z9/y/GWNh8H2/
         KpfLnaWOwh+FQuEX/A2X6R/BU2aNBkGdLH5k6SZsg1ttpA+qh635fP6heU7YKBwYBzC+xpiEjdbPQt3l
         d7QJtBFqE9yB9o7+iq2vB4M+eBtjgtqPWfArMIfvKozDUfyXLWYNiF2YXspAfeEsZjGfQ98Ea7i+gOYF
@@ -307,21 +292,6 @@
         QGrniG4zTUYaG2MG31HZjkUEbxqHAAAAAElFTkSuQmCC
 </value>
   </data>
-  <metadata name="ID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="Section.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="GWA.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="Clubs.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="Fee.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <metadata name="ID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>

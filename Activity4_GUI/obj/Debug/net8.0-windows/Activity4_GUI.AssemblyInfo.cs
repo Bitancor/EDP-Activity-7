@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Activity4_GUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93907526acb31c91db8eaf803baa1db5aab936e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Activity4_GUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Activity4_GUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

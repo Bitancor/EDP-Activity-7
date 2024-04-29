@@ -35,8 +35,6 @@
             pictureBox1 = new PictureBox();
             exitBtn = new Button();
             panel1 = new Panel();
-            exportLink = new LinkLabel();
-            pictureBox6 = new PictureBox();
             pictureBox5 = new PictureBox();
             accountsLink = new LinkLabel();
             pictureBox4 = new PictureBox();
@@ -63,7 +61,6 @@
             label2 = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)pictureBox6).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox5).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
@@ -135,8 +132,6 @@
             // panel1
             // 
             panel1.BackColor = Color.SteelBlue;
-            panel1.Controls.Add(exportLink);
-            panel1.Controls.Add(pictureBox6);
             panel1.Controls.Add(pictureBox5);
             panel1.Controls.Add(accountsLink);
             panel1.Controls.Add(pictureBox4);
@@ -151,27 +146,6 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(178, 443);
             panel1.TabIndex = 5;
-            // 
-            // exportLink
-            // 
-            exportLink.AutoSize = true;
-            exportLink.Font = new Font("Century Gothic", 12F);
-            exportLink.LinkColor = Color.White;
-            exportLink.Location = new Point(45, 307);
-            exportLink.Name = "exportLink";
-            exportLink.Size = new Size(66, 21);
-            exportLink.TabIndex = 11;
-            exportLink.TabStop = true;
-            exportLink.Text = "Exports";
-            // 
-            // pictureBox6
-            // 
-            pictureBox6.Image = (Image)resources.GetObject("pictureBox6.Image");
-            pictureBox6.Location = new Point(18, 307);
-            pictureBox6.Name = "pictureBox6";
-            pictureBox6.Size = new Size(24, 27);
-            pictureBox6.TabIndex = 10;
-            pictureBox6.TabStop = false;
             // 
             // pictureBox5
             // 
@@ -404,7 +378,6 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)pictureBox6).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox5).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
@@ -454,7 +427,5 @@
         private PictureBox pictureBox3;
         private PictureBox pictureBox5;
         private LinkLabel accountsLink;
-        private LinkLabel exportLink;
-        private PictureBox pictureBox6;
     }
 }
