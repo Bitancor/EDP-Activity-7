@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mark\\Documents\\School Files\\College School File 3rd Year\\2nd Sem\\Event Driven Programming\\Feb\\Activity 4\\Activity4_GUI\\Activity4_GUI\\Activity4_GUI.csproj": {}
+    "D:\\Mark\\Documents\\School Files\\College School File 3rd Year\\2nd Sem\\Event Driven Programming\\Apr\\Activity 7\\Activity4_GUI\\Activity4_GUI.csproj": {}
   },
   "projects": {
-    "D:\\Mark\\Documents\\School Files\\College School File 3rd Year\\2nd Sem\\Event Driven Programming\\Feb\\Activity 4\\Activity4_GUI\\Activity4_GUI\\Activity4_GUI.csproj": {
+    "D:\\Mark\\Documents\\School Files\\College School File 3rd Year\\2nd Sem\\Event Driven Programming\\Apr\\Activity 7\\Activity4_GUI\\Activity4_GUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mark\\Documents\\School Files\\College School File 3rd Year\\2nd Sem\\Event Driven Programming\\Feb\\Activity 4\\Activity4_GUI\\Activity4_GUI\\Activity4_GUI.csproj",
+        "projectUniqueName": "D:\\Mark\\Documents\\School Files\\College School File 3rd Year\\2nd Sem\\Event Driven Programming\\Apr\\Activity 7\\Activity4_GUI\\Activity4_GUI.csproj",
         "projectName": "Activity4_GUI",
-        "projectPath": "D:\\Mark\\Documents\\School Files\\College School File 3rd Year\\2nd Sem\\Event Driven Programming\\Feb\\Activity 4\\Activity4_GUI\\Activity4_GUI\\Activity4_GUI.csproj",
+        "projectPath": "D:\\Mark\\Documents\\School Files\\College School File 3rd Year\\2nd Sem\\Event Driven Programming\\Apr\\Activity 7\\Activity4_GUI\\Activity4_GUI.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Mark\\Documents\\School Files\\College School File 3rd Year\\2nd Sem\\Event Driven Programming\\Feb\\Activity 4\\Activity4_GUI\\Activity4_GUI\\obj\\",
+        "outputPath": "D:\\Mark\\Documents\\School Files\\College School File 3rd Year\\2nd Sem\\Event Driven Programming\\Apr\\Activity 7\\Activity4_GUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
